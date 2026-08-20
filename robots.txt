@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-nl78iy.venom88win.biz/sitemap.xml
